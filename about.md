@@ -13,7 +13,7 @@ production systems for quality control that have been deployed around the world.
 In my spare time, I have been aspiring to become a regular speaker at
 conferences, and I am going to attempt to get into writing blog posts to try to
 improve my writing skills.  My ultimate goal is to one day write my own book(s)
-on programming.
+on programming and to give talks at PyCon.
 
 Offline I enjoy spending time with my wife and our two wonderful children.  They
 are the reason why I do what I do, and I feel honored to be able to watch them
