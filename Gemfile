@@ -1,3 +1,2 @@
-gem 'jekyll', '>= 3.0'
-gem 'jekyll-paginate'
-ruby "2.3.1"
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
