@@ -7,8 +7,6 @@ Have you ever wished you could slow down your Python 3.6 code while at the same
 time making it harder to profile and debug with the only benefit being that your
 code will crash at runtime if you pass the wrong type?  Well, your wait is over!
 
-# Introduction
-
 With [this](https://gist.github.com/bheklilr/372dc851ba085c4f943f116e41888fcf)
 snippet of code (Python 3.6 compatible only, I'm afraid), you can take advantage
 of variable type annotations on assignments to dynamically check that you're
