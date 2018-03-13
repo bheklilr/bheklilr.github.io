@@ -32,3 +32,18 @@ that attended that night, and as a result there were several people who came up
 to talk to me afterwards.  Some just wanted to tell me that they enjoyed the
 talk and asked for the slides, but with others I had lengthy conversations with
 about programming, work, and ambitions.
+
+The next month I fully intended to come to the meetup as just another attendee,
+but unfortunately the person who was supposed to present ended up having an
+unexpected scheduling conflict, and the organizer asked me if there was any way
+I could present.  With only days to prepare, I threw together a slideshow like I
+was a procrastinating college student again (at the expense of an increasingly
+large pile of dishes and laundry).  Somehow, I managed to pull through, and gave
+[my second talk](/2018/02/22/building-webapps-in-tornado/).
+
+With my sudden increased involvement in our small meetup, the organizer decided
+to approach me about ways we could potentially improve the group.  Don't get me
+wrong though, he had an ulterior motive. Running a meetup takes time and/or
+monetary commitments.  He wanted to ensure that if he was traveling for work (or
+just tired that month), someone else could organize things, grab some pizza and
+beer, and make sure that the presenter shows up.
