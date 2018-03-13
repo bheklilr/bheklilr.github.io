@@ -18,3 +18,9 @@ on programming and to give talks at PyCon.
 Offline I enjoy spending time with my wife and our two wonderful children.  They
 are the reason why I do what I do, and I feel honored to be able to watch them
 grow up.
+
+Reach out to me on [Twitter](https://twitter.com/bheklilr),
+[Reddit](https://www.reddit.com/user/bheklilr/),
+[Stackoverflow](https://stackoverflow.com/users/839246/bheklilr), and
+[Github](https://github.com/bheklilr/) if you have any questions or comments.
+I'd be happy to hear from anyone who manages to stumble across this little blog.
