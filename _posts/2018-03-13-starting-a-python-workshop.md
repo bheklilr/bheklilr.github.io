@@ -3,9 +3,9 @@ layout: post
 title: How I Ended Up Starting a Python Workshop
 ---
 
-Today's story is one that hopefully will inspire you to put yourself out there.
-You never know what opportunities you will come across just by hanging around
-the right places and talking to people.
+Today's story is one that I hope will inspire you to put yourself out there. You
+never know what opportunities you will come across just by hanging around the
+right places and talking to people.
 
 Late last year I decided that I needed to start socializing a bit more with
 other developers.  I had noticed that my skills development had stagnated
@@ -47,3 +47,24 @@ wrong though, he had an ulterior motive. Running a meetup takes time and/or
 monetary commitments.  He wanted to ensure that if he was traveling for work (or
 just tired that month), someone else could organize things, grab some pizza and
 beer, and make sure that the presenter shows up.
+
+At this point I'd like to stress that all of this was just from me stepping up
+and being available. I haven't always been able to be available, I have a busy
+life just like everyone else, but simply by volunteering I've gone from
+attending my first meetup to becoming an organizer in less than 6 months. I
+wouldn't have gotten here if I didn't sacrifice a few evenings, if I didn't
+volunteer, and if I didn't ask questions.  I don't want to make it out to be how
+awesome I am.  I'm not, I was just there and eager.
+
+Which brings me to the main reason why I'm writing this post. Starting in April
+2018, I will be leading a bi-monthly Python workshop as part of my local meetup
+group. I have absolutely no idea what I'm doing, or if anyone will even show up.
+I'm hoping that I'll get a couple dozen people that come in.  This first meeting
+I'm expecting some people come in for basic help like getting Python set up for
+the first time, or figuring out how to use PyCharm or VS Code for Python
+development.  Maybe someone will show up with a hard problem that needs some
+brainstorming.  After seeing how these go, depending on the feedback I get, I'm
+also interested in reaching out to organizations like Software Carpentry for
+more directed training material.  I think it would be pretty sweet to start
+teaching classes, even if it's just introductory material.
+
